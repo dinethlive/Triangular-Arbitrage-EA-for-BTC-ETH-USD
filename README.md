@@ -216,7 +216,7 @@ Forward Period:      1/3 (validate results)
 
 ### Before Going Live:
 
-- [ ] **Test on DEMO account** for at least 1 week
+- [ ] **Test on DEMO account** for at least 1 week, [Create a DEMO account ](https://track.deriv.com/_vZspB8H3n2wpl7dR3lTXiGNd7ZgqdRLk/1/)
 - [ ] **Verify symbol names** match your broker exactly
 - [ ] **Check spreads** during your trading hours (should be reasonable)
 - [ ] **Confirm all 3 pairs** are available and liquid
