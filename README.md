@@ -1,6 +1,6 @@
 # Triangular Arbitrage EA for BTC-ETH-USD
 ## Professional MT5 Expert Advisor for Cryptocurrency Triangular Arbitrage
-
+![Alt Text](TriangularArbitrage_BTC_ETH_USD.png)
 ---
 
 ## 📋 OVERVIEW
